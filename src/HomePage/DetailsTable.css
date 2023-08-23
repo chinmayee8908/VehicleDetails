@@ -1,0 +1,25 @@
+table{
+
+    width: 800px;
+    background-color: rgb(188, 252, 252);
+    border: 2px solid black;
+}
+tr{
+    border: 2px solid black;
+}
+th{
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+}
+tbody{
+    width: 100%;
+}
+li{
+    list-style: none;
+}

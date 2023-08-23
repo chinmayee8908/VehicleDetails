@@ -1,0 +1,22 @@
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+
+  }
+  
+  .image-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(216, 212, 207);
+  }
+  img{
+    height: 250px;
+    width: 350px;
+  }
+ .Details-Container{
+    height: 300px;
+    width: 350px;
+    background-color: rgb(243, 246, 245);
+  }

@@ -1,0 +1,28 @@
+.Form-Container{
+    display: flex;
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    background-image: url(../Asset/form.jpg);
+    margin-top: 150px;
+    margin-left: 35%;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+Form{
+    height: 380px;
+    width: 450px; 
+   
+}
+.me-auto
+{
+  display: flex;
+  width: 800px;
+    justify-content: space-evenly;
+}
+button :hover{
+    background-color: aquamarine;
+}
